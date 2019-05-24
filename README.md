@@ -6,7 +6,7 @@
 
 ### About
 
-目前 MOEOVERFLOW（以下简称 MOF）不能无条件加入 Github Organization（你可以加入群聊组）。如果你希望加入 Github MOF 组，你可能需要对本组已有的项目有过 Contribution 或者希望将自己的个人项目转入本组并继续维护。申请加入请发邮件到 `admin#moeoverflow.com`。
+目前 MOEOVERFLOW（以下简称 MOF）不接受无条件加入 Github Organization（你可以加入群聊组）。如果你希望加入 Github MOF 组，你可能需要对本组已有的项目有过 Contribution 或者希望将自己的个人项目转入本组并继续维护。申请加入请发邮件到 `admin#moeoverflow.com`。
 
 如果你对 MOF 有任何的建议或者有新项目提议，公开的方式可以在这个仓库提出 issue，私下的方式可以发送邮件交流。
 
@@ -30,12 +30,12 @@
 
 [<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="40" style="border-radius: 20px;">](https://www.patreon.com/bePatron?u=5924588) [<img src="https://opencollective.com/moeoverflow/donate/button@2x.png?color=blue" height="41"/>](https://opencollective.com/moeoverflow/donate)
 
-目前 moeoverflow 相关项目一年的开销大概有 2200 人民币。大部分开销来自于 animeloop.org 的服务器租金。
+目前 MOF 相关项目一年的开销大概有 2200 RMB。大部分开销来自于 animeloop.org 的服务器租金。
 
 
 
 ### Promotion
 
-[<img src="https://blog.windisco.com/content/images/2019/05/cfc_brand.png" alt="cfc studio" height="80" style="margin: 0 20px 20px 0;">](https://www.crazyforcode.org/) [<img src="https://animeloop.org/files/animeloop_brand_black.svg" alt="animeloop" height="80" style="margin: 0 20px 20px 0;">](https://animeloop.org)
+[<img src="https://moeoverflow.com/static/images/cfc_brand.png" alt="cfc studio" height="80" style="margin: 0 20px 20px 0;">](https://www.crazyforcode.org/) [<img src="https://moeoverflow.com/static/images/animeloop_brand_black.svg" alt="animeloop" height="80" style="margin: 0 20px 20px 0;">](https://animeloop.org)
 
 <small>如果你或你的组织/团队希望添加友情链接，请邮件联系。</small>
