@@ -4,13 +4,13 @@
 
 ### ABOUT
 
-Currently, MOEOVERFLOW (hereinafter referred to as MOF) does not accept unconditional joining of the Github Organization (but you can join a group chat group). If you want to join the Github MOF group, you may need to contribute to the existing projects in this group or you want to transfer some valuable and meaningful projects into this group and continue to maintain. To apply to join, please send email to `admin # moeoverflow.com`(replace # with @).
+目前 MOEOVERFLOW（以下简称 MOF）不接受无条件加入 Github Organization（你可以加入群聊组）。如果你希望加入 Github MOF 组，你可能需要对本组已有的项目有过 Contribution 或者希望将某些有价值有意义的项目转入本组并继续维护。申请加入请发邮件到 `admin#moeoverflow.com`（用 @ 替换 #）。
 
-If you have any suggestions for MOF or new project proposals, you can raise issues in this repository publicly, or you can send emails in private.
+如果你对 MOF 有任何的建议或者有新项目提议，公开的方式可以在这个仓库提出 issue，私下也可以发送邮件交流。
 
-If you have a back-end project that you want to transfer to the MOF group and need a server, you may be able to deploy it to the MOF server. Please email for details.
+如果你有后端项目希望转入 MOF 组并且需要服务器，也许可以部署到 MOF 的服务器上，详细请邮件联系。
 
-PS: We may reject your application to join.
+PS: 我们可能会拒绝你的加入申请。
 
 ### CONTRIBUTORS
 
@@ -22,8 +22,8 @@ PS: We may reject your application to join.
 
 ### SPONSOR
 
-If your money is too much to run out, maybe you can consider funding us.
+如果你的钱多到用不完，也许你可以考虑赞助我们。
 
 ### LINKS
 
-If your organization / team wants to add a brand link, please email us.
+如果你的组织/团队希望添加友情链接，请邮件联系。
